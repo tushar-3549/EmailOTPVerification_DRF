@@ -18,8 +18,8 @@
 
 - Clone the Repository
 
-git clone 
-cd 
+git clone https://github.com/tushar-3549/EmailOTPVerification_DRF.git
+cd EmailOTPVerification_DRF
 
 - Create and Activate a Virtual Environment
 ```
